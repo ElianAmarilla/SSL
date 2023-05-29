@@ -1,5 +1,6 @@
-#SSL 
-Sintaxis y semantica de los lenguajes
-Comision: k2002
+# SSL
+### Sintaxis y Semántica de los Lenguajes
+### Curso: k2002
+
 Alumno: Amarilla Elian
-Legajo: 207.921-5
+-Legajo: 207.921-5
